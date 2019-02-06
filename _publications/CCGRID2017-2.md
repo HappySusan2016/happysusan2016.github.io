@@ -1,7 +1,7 @@
 ---
 title: "Security Implications of Blockchain Cloud with Analysis of Block Withholding Attack"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/CCGRID2017-2
 excerpt: 'This paper is about the blockchain security.'
 date: 2017-05-14
 venue: '17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID)'
