@@ -1,0 +1,14 @@
+---
+title: "Exploring the Attack Surfaces in Blockchain Enabled Smart Cities"
+collection: publications
+permalink: /publication/CCGRID2017-1
+excerpt: 'This chapter is about the attack suface analysis of blockchain application in smart cities'
+date: 2018-09-16
+venue: '2018 IEEE International Smart Cities Conference (ISC2)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8656852'
+---
+With the development of Internet-of-Things (IoT) technology, the notion of smart city concept comes to reality. Smart city covers a broad range of scenarios for citizens in their everyday life, such as smart home, smart traffic and smart healthcare. However, considering the IoT technology itself still under security threats, smart city security and resilience is a critical factor for truly embracing the smart age of everyday life. Current technology has a difficult time providing security in smart city architectures because of its decentralized and distributed nature. As a recently new technology, Blockchain uses a decentralized and distributed security approach to adding security to a decentralized and distributed IoT system. This paper presents a blockchain based solution to provide security and resilience in smart cities and analyze potential security concerns in the integration of blockchain technology into smart city infrastructure. Each of the concerns are discussed in detail.
+
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/8656852)
+
+Recommended citation: X. Liang, S. Shetty and D. Tosh, "Exploring the Attack Surfaces in Blockchain Enabled Smart Cities," 2018 IEEE International Smart Cities Conference (ISC2), Kansas City, MO, USA, 2018, pp. 1-8.doi: 10.1109/ISC2.2018.8656852
