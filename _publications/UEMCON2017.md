@@ -1,5 +1,5 @@
 ---
-title: "ProvChain: A Blockchain-based Data Provenance Architecture in Cloud Environment with Enhanced Privacy and Availability"
+title: "Consensus protocols for blockchain-based data provenance: Challenges and opportunities"
 collection: publications
 permalink: /publication/UEMCON2017
 excerpt: 'This paper is about the blockchain consensus algorithms.'
