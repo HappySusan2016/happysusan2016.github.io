@@ -1,0 +1,14 @@
+---
+title: "Towards a Trusted and Privacy Preserving Membership Service in Distributed Ledger Using Intel Software Guard Extensions"
+collection: publications
+permalink: /publication/CCGRID2017-1
+excerpt: 'This paper is about securing the blockchain based data integrity protection using trusted computing technology (Intel SGX).'
+date: 2017-12-06
+venue: 'International Conference on Information and Communications Security'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-89500-0_27'
+---
+Distributed Ledger Technology (DLT) provides decentralized services by removing the need of trust among distributed nodes and the trust of central authority in the distributed system. Transactions across the whole network are visible to all participating nodes. However, some transactions may contain sensitive information such as business contracts and financial reports, or even personal health records. To protect user privacy, the architecture of distributed ledger with membership service as a critical component can be adopted. We make a step towards such vision by proposing a membership service architecture that combines two promising technologies, distributed ledger and Intel Software Guard Extensions (SGX). With SGX remote attestation and isolated execution features, each distributed node can be enrolled as a trusted entity. We propose security properties for membership service in distributed ledger and illustrate how SGX capabilities help to achieve these properties in each phase of membership service, including member registration, enrollment, transaction signing and verifying and transacting auditing. The SGX enabled membership service could enhance the support of privacy preservation, and defense capabilities against adversarial attacks, with scalability and cost effectiveness.
+
+[Download paper here]https://link.springer.com/chapter/10.1007/978-3-319-89500-0_27
+
+Recommended citation: Liang X., Shetty S., Tosh D., Foytik P., Zhang L. (2018) Towards a Trusted and Privacy Preserving Membership Service in Distributed Ledger Using Intel Software Guard Extensions. In: Qing S., Mitchell C., Chen L., Liu D. (eds) Information and Communications Security. ICICS 2017. Lecture Notes in Computer Science, vol 10631. Springer, Cham
