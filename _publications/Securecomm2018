@@ -1,0 +1,14 @@
+---
+title: "Towards a Reliable and Accountable Cyber Supply Chain in Energy Delivery System Using Blockchain"
+collection: publications
+permalink: /publication/CCGRID2017-1
+excerpt: 'This paper is about the blockchain based Cyber Supply Chain in Energy Delivery System.'
+date: 2018-12-29
+venue: 'The 2018 International Conference on Security and Privacy in Communication Systems'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-01704-0_3'
+---
+The cyber supply chain arises as the emerging business model of today’s IT infrastructure in enterprise-level energy delivery system, which relies on different software or hardware vendors. Due to the heterogeneous services provided and various roles involved for each system entity to maintain the IT infrastructure, the attack surface expands dramatically, thus putting enterprise systems at high risks of data breaches or compromises. This paper firstly presents an overview of the typical cyber supply chain system, including system entities and processes, and then two attack scenarios are illustrated. Following the analysis of cyber supply chain security requirements and countermeasures, we integrate the power of blockchain technology that has a trustless and decentralized architecture, to the cyber supply chain to achieve reliability and accountability. A basic framework for blockchain assured energy delivery system is introduced as a case study to provide guidelines for future blockchain adoption in achieving provenance of cyber supply chain systems in any industries.
+
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-01704-0_3)
+
+Recommended citation: Liang X., Shetty S., Tosh D., Ji Y., Li D. (2018) Towards a Reliable and Accountable Cyber Supply Chain in Energy Delivery System Using Blockchain. In: Beyah R., Chang B., Li Y., Zhu S. (eds) Security and Privacy in Communication Networks. SecureComm 2018. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 255. Springer, Cham
