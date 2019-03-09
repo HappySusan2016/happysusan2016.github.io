@@ -1,0 +1,14 @@
+---
+title: "Attack Surface Analysis of Permissioned Blockchain Platforms for Smart Cities"
+collection: publications
+permalink: /publication/CCGRID2017-1
+excerpt: 'This chapter is about the attack suface analysis of blockchain application in smart cities'
+date: 2018-09-16
+venue: '2018 IEEE International Smart Cities Conference (ISC2)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8656983'
+---
+In this paper, we explore the attack surfaces in open source permissioned blockchain project Hyperledger Fabric that can be exploited and compromised through cryptographic tactics. Attacks such as insider threats, DNS attacks, private key attacks, and certificate authority (CA) attacks are proposed and discussed. Points in transaction flow where the proposed attacks are threats to the permissioned blockchain are specified and analyzed. Key management systems are discussed, and a deep analysis of Hierarchical Deterministic wallets is conducted. The Membership Service Provider (MSP) proves to be a centralizing aspect of an otherwise decentralized system and proves to be a weakness of the permissioned blockchain network.
+
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/8656983)
+
+Recommended citation: A. Davenport, S. Shetty and X. Liang, "Attack Surface Analysis of Permissioned Blockchain Platforms for Smart Cities," 2018 IEEE International Smart Cities Conference (ISC2), Kansas City, MO, USA, 2018, pp. 1-6. doi: 10.1109/ISC2.2018.8656983
