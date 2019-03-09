@@ -1,0 +1,14 @@
+---
+title: "A Reliable Data Provenance and Privacy Preservation Architecture for Business-Driven Cyber-Physical Systems Using Blockchain"
+collection: publications
+permalink: /publication/CCGRID2017-1
+excerpt: 'This chapter is about the blockchain application in Cyber-Physical Systems.'
+date: 2018-10-01
+venue: 'International Journal of Information Security and Privacy (IJISP)'
+paperurl: 'https://www.igi-global.com/article/a-reliable-data-provenance-and-privacy-preservation-architecture-for-business-driven-cyber-physical-systems-using-blockchain/216850'
+---
+Cyber-physical systems (CPS) including power systems, transportation, industrial control systems, etc. support both advanced control and communications among system components. Frequent data operations could introduce random failures and malicious attacks or even bring down the whole system. The dependency on a central authority increases the risk of single point of failure. To establish an immutable data provenance scheme for CPS, the authors adopt blockchain and propose a decentralized architecture to assure data integrity. In business-driven CPS, end users are required to share their personal information with multiple third parties. To prevent data leakage and preserve user privacy, the authors isolate and feed different information retrieval requests using tokens specifically generated for each type of request. Providing both traceability of data operations, and unlinkability of end user activities, a robust blockchain-based CPS is prototyped. Evaluation indicates the architecture is capable of assured data provenance validation and user privacy preservation at a low overhead.
+
+[Download paper here](https://www.igi-global.com/article/a-reliable-data-provenance-and-privacy-preservation-architecture-for-business-driven-cyber-physical-systems-using-blockchain/216850)
+
+Recommended citation: Liang, X., Shetty, S., Tosh, D. K., Zhao, J., Li, D., & Liu, J. (2018). A Reliable Data Provenance and Privacy Preservation Architecture for Business-Driven Cyber-Physical Systems Using Blockchain. International Journal of Information Security and Privacy (IJISP), 12(4), 68-81. doi:10.4018/IJISP.2018100105
