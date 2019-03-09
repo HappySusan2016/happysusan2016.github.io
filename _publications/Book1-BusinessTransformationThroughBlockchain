@@ -1,0 +1,14 @@
+---
+title: "Book Chapter: Blockchain-Based Decentralized Accountability and Self-Sovereignty in Healthcare Systems"
+collection: publications
+permalink: /publication/CCGRID2017-1
+excerpt: 'This chapter is about the blockchain application in healthcare.'
+date: 2018-12-31
+venue: 'Business Transformation through Blockchain (pp 119-149)'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-99058-3_5'
+---
+This chapter presents a blockchain-based solution to ensure secure and convenient sharing of personal health data. With the advent of mobile and wearable technology and rising concerns about potential privacy issues and vulnerabilities in current personal health data storage and sharing systems, there is a desire for a trusted information sharing framework to ensure security and privacy of personal health data. We present a permissioned blockchain and Intel Software Guard Extensions (SGX) empowered user-centric health data sharing solution. The blockchain-based design involves anchoring the operations on records on the blockchain network, preserves the integrity of the health data and provides proof of integrity and validation permanently retrievable from cloud database. The privacy is ensured through leveraging Intel SGX’s capabilities. We present in detail how the integrated blockchain and SGX platform can ensure integrity and privacy of health data. We demonstrate how through a Web application for personal health data management (PHDM) systems, the individuals are capable of synchronizing sensor data from wearable devices with online account and controlling data access from any third parties. The protected personal health data and data access records are hashed and anchored to a permanent but secure ledger with platform dependency, ensuring data integrity and accountability. We provide results that indicate our approach provides user privacy and accountability with acceptable overhead. We discuss scalability issues and present a tree-based data processing and batching method can handle large datasets.
+
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-319-99058-3_5)
+
+Recommended citation: Shetty S., Liang X., Bowden D., Zhao J., Zhang L. (2019) Blockchain-Based Decentralized Accountability and Self-Sovereignty in Healthcare Systems. In: Treiblmaier H., Beck R. (eds) Business Transformation through Blockchain. Palgrave Macmillan, Cham
