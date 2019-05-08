@@ -72,4 +72,6 @@ Service and leadership
 17.	Engineering Science and Technology, an International Journal
 18.	IGI Global Book
 19.	IEIT Technical Review
+20. Royal Society Open Science 
+21. Securecomm 2019
 
