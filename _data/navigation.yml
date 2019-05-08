@@ -6,7 +6,7 @@ main:
   - title: "Talks"
     url: /talks/  
     
-    - title: "Talk Map"
+  - title: "Talk Map"
     url: /talkmap/ 
 
   #- title: "Teaching"
