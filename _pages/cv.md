@@ -42,16 +42,17 @@ Talks
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
-A.	Technical Program Committee (TPC) Member
+* Technical Program Committee (TPC) Member
 1.	The 1st International Workshop on BLockchain Enabled Sustainable Smart Cities (Session Chair)
 2.	The 1st International Workshop on 5G Communication, Security and Privacy in Smart Cities in Conjunction with the 4th IEEE Annual International Smart Cities Conference (ISC2 2018)
 3.	The 2019 Spring Simulation Conference
 4.	The 1st International Workshop on Lightweight Blockchain for Edge Intelligence and Security (LightChain 2019) 
-A.	Editorial Board Member of Journals
+
+*	Editorial Board Member of Journals
 1.	The International Journal of Information Security and Privacy (IJISP) 
 2.	The Journal of Information Engineering and Applied Computing (IEAC)
-B.	Reviewer for Scientific Conferences and Academic Journals
+
+*	Reviewer for Scientific Conferences and Academic Journals
 1.	The 15th International Conference on Information Technology (ICIT 2016)
 2.	The IEEE Consumer Electronics Magazine
 3.	The International Journal of Information Security and Privacy
