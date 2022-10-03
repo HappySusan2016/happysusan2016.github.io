@@ -11,11 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Eletrical Engineering, Beijing Institute of Technology, June 2013
 * Ph.D in Cyber Security, University of Chinese Academy of Sciences, Jan 2019
+* B.S. in Eletrical Engineering, Beijing Institute of Technology, June 2013
 
 Work experience
 ======
+* August 2022: Assistant Professor
+  * Florida International University
+  
+* August 2020: Assistant Professor
+  * University of North Carolina at Greensboro
+  
+* September 2019: Assistant Professor
+  * Virginia State University
+
 * June 2018: Research Scientist
   * Old Dominion University
   * Duties included: Research on Blockchain and Cybersecurity
