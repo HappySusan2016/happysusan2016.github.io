@@ -13,6 +13,19 @@ I am an Assistant Professor in the Department of Information Systems and Busines
 My research mainly concentrates on security and privacy in the modern society. Topics include Blockchain security and privacy, Blockchain consensus design and application, cloud computing, IoT, and trusted computing. Besides, I also work on smart city security, power grid resilience, healthcare and data provenance mechanisms. I have published more than 30 conference and journals papers, book chapters at reputed venues. One of my papers has been awarded as “Top 50 Influential Papers in Blockchain” at BlockchainConnect Conference, San Francisco, in January 2019. My research has been funded by the Office of Naval Research.
 
 
+Research Area
+------
+Cybersecurity Research
+  + IoT and Cloud Security
+  + Trusted Computing
+  + Healthcare Security and Privacy
+  + Blockchain Security
+
+Blockchain Research
+  + Blockchain for Data Provenance
+  + Blockchain Consensus
+  + Blockchain Applications in Healthcare, IoT and Power Grid
+
 What’s New
 ------
 One of my papers got accepted.
