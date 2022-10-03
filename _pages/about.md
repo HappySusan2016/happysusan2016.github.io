@@ -23,7 +23,7 @@ Cybersecurity Research
 
 Blockchain Research
   + Blockchain for Data Provenance
-  + Blockchain Consensus
+  + Blockchain Consensus Design
   + Blockchain Applications in Healthcare, IoT and Power Grid
 
 What’s New
@@ -31,7 +31,6 @@ What’s New
 One of my papers got accepted.
 
 LUUNU — Blockchain, MISP, Model Cards and Federated Learning Enabled Cyber Threat Intelligence Sharing Platform
-
 E. Bandara, S. Shetty, R. Mukkamala, A. Rahaman and X. Liang, "LUUNU — Blockchain, MISP, Model Cards and Federated Learning Enabled Cyber Threat Intelligence Sharing Platform," 2022 Annual Modeling and Simulation Conference (ANNSIM), 2022, pp. 235-245, doi: 10.23919/ANNSIM55834.2022.9859355.
   
 
